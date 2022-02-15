@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+.bg-color{
+  background-color: #ffffff;
+}
+
+.ft-color{
+  font-family: 'Festive', cursive;
+  color: #1572A1;
+  font-size: 40px;
+}
+.link-color{
+  color: #1572A1;
+}
+.link-color:hover {
+  color: #1572A1;
+  font-weight: bold;
+}
+
+.btn-outline-primary{
+  color: #1572A1;
+  border-color: #1572A1;
+  border-style: solid;
+  border-width: 3px;
+  font-weight: bold;
+}
+
+.btn-outline-primary:hover{
+  color: white;
+  background-color: #1572A1;
+  border-color: #1572A1
+}
+
+.form-control{
+  color: #1572A1 !important;
+  font-weight: bold;
+  border-style:none;
+}
+
+.like-btn:hover{
+  cursor: pointer;
+}
